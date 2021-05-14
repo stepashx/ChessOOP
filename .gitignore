@@ -1,3 +1,4 @@
 Chess.csproj
 obj
 .DS_Store
+/bin
